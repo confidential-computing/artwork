@@ -1,0 +1,93 @@
+# Confidential Computing Consortium Artwork and Logos
+
+*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
+
+## Confidential Computing Consortium
+
+* [Brand guidelines](./ccc/CCC-Brand_guidelines.pdf)
+
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+		<td><img src="./ccc/other/EB0045.svg" width="20"></td>
+		<td>(235, 0, 69)</td>
+		<td>(0, 100, 0, 70)</td>
+		<td>192C</td>
+		<td>#00AF9A</td>
+	</tr>
+	</tr>
+		<td><img src="./ccc/other/0075C9.svg" width="20"></td>
+		<td>(0, 117, 201)</td>
+		<td>(100, 46, 2, 0)</td>
+		<td>3005C</td>
+		<td>#009ADE</td>
+	</tr>
+</table>
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color.png" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-color.png" width="75"></td>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.png" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-black.png" width="75"></td>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.png" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-white.png" width="75"></td>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.svg" width="200"></td>
+        <td>&nbsp</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+### Font
+
+The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
+
+---
+
+The Confidential Computing Consortium's trademarks are managed by LF Projects, LLC. Use of any trademark or logo is subject to the trademark policy available at [lfprojects.org/policies/trademark-policy](https://lfprojects.org/policies/trademark-policy/).
+
+Please email [info@confidentialcomputing.io](mailto:info@confidentialcomputing.io) with any questions or requests.
