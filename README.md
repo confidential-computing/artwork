@@ -63,6 +63,15 @@
         <td><img src="./ccc/confidential_computing_consortium-icon-color.svg" width="75"></td>
     </tr>
     <tr>
+        <th>color (inverted)</th>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color-inverted.png" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-color-inverted.png" width="75"></td>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color-inverted.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-color-inverted.svg" width="75"></td>
+    </tr>
+    <tr>
         <th>black</th>
         <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.png" width="200"></td>
         <td>&nbsp;</td>
@@ -85,6 +94,91 @@
 ### Font
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
+
+## Gramine Project
+
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+		<td><img src="./gramine/other/DD2A7C.svg" width="20"></td>
+		<td>(221, 42, 124)</td>
+		<td>(0, 100, 0, 70)</td>
+		<td>192C</td>
+		<td>#DD2A7C</td>
+	</tr>
+</table>
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./gramine/gramine-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-color.png" width="200"></td>
+        <td><img src="./gramine/gramine-icon-color.png" width="75"></td>
+        <td><img src="./gramine/gramine-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-color.svg" width="200"></td>
+        <td><img src="./gramine/gramine-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color (inverted)</th>
+        <td><img src="./gramine/gramine-logo-horizontal-color-inverted.png" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-color-inverted.png" width="200"></td>
+        <td><img src="./gramine/gramine-icon-color-inverted.png" width="75"></td>
+        <td><img src="./gramine/gramine-logo-horizontal-color-inverted.svg" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-color-inverted.svg" width="200"></td>
+        <td><img src="./gramine/gramine-icon-color-inverted.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./gramine/gramine-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-black.png" width="200"></td>
+        <td><img src="./gramine/gramine-icon-black.png" width="75"></td>
+        <td><img src="./gramine/gramine-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-black.svg" width="200"></td>
+        <td><img src="./gramine/gramine-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./gramine/gramine-logo-horizontal-white.png" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-white.png" width="200"></td>
+        <td><img src="./gramine/gramine-icon-white.png" width="75"></td>
+        <td><img src="./gramine/gramine-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-white.svg" width="200"></td>
+        <td><img src="./gramine/gramine-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+### Font
+
+The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+Sans?preview.text=GRAMINE&preview.text_type=custom).
+
 
 ---
 
