@@ -111,8 +111,8 @@ The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the O
 	</tr>
 		<td><img src="./gramine/other/DD2A7C.svg" width="20"></td>
 		<td>(221, 42, 124)</td>
-		<td>(0, 100, 0, 70)</td>
-		<td>192C</td>
+		<td>(0, 81, 44, 13)</td>
+		<td>213C</td>
 		<td>#DD2A7C</td>
 	</tr>
 </table>
