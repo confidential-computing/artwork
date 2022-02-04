@@ -95,6 +95,52 @@
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
 
+## Enarx
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./enarx/enarx-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./enarx/enarx-logo-vertical-black.png" width="200"></td>
+        <td><img src="./enarx/enarx-icon-black.png" width="75"></td>
+        <td><img src="./enarx/enarx-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./enarx/enarx-logo-vertical-black.svg" width="200"></td>
+        <td><img src="./enarx/enarx-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./enarx/enarx-logo-horizontal-white.png" width="200"></td>
+        <td><img src="./enarx/enarx-logo-vertical-white.png" width="200"></td>
+        <td><img src="./enarx/enarx-icon-white.png" width="75"></td>
+        <td><img src="./enarx/enarx-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./enarx/enarx-logo-vertical-white.svg" width="200"></td>
+        <td><img src="./enarx/enarx-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+### Font
+
+The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?preview.text=Enarx&preview.text_type=custom).
+
 ## Gramine Project
 
 ### Color Palette
