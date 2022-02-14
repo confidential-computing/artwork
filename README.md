@@ -72,15 +72,6 @@
         <td><img src="./ccc/confidential_computing_consortium-icon-color-inverted.svg" width="75"></td>
     </tr>
     <tr>
-        <th>black</th>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.png" width="200"></td>
-        <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-black.png" width="75"></td>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.svg" width="200"></td>
-        <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.png" width="200"></td>
         <td>&nbsp;</td>
@@ -88,6 +79,15 @@
         <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.svg" width="200"></td>
         <td>&nbsp</td>
         <td><img src="./ccc/confidential_computing_consortium-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.png" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-black.png" width="75"></td>
+        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td><img src="./ccc/confidential_computing_consortium-icon-black.svg" width="75"></td>
     </tr>
 </table>
 
