@@ -229,6 +229,104 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
 
 The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+Sans?preview.text=GRAMINE&preview.text_type=custom).
 
+## Veracruz
+
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+	<tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+	<tr>
+		<td><img src="./veracruz/other/1C79B7.svg" width="20"></td>
+		<td>(28, 121, 183)</td>
+		<td>(85, 34, 0, 28)</td>
+		<td>7690C</td>
+		<td>#1C79B7</td>
+	</tr>
+	<tr>
+		<td><img src="./veracruz/other/03244C.svg" width="20"></td>
+		<td>(3, 36, 76)</td>
+		<td>(96, 53, 0, 70)</td>
+		<td>655C</td>
+		<td>#03244C</td>
+	</tr>
+</table>
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./veracruz/veracruz-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-color.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-color.png" width="75"></td>
+        <td><img src="./veracruz/veracruz-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-color.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color (reverse)</th>
+        <td><img src="./veracruz/veracruz-logo-horizontal-color_reverse.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-color_reverse.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-color.png" width="75"></td>
+        <td><img src="./veracruz/veracruz-logo-horizontal-color_reverse.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-color_reverse.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white (black background)</th>
+        <td><img src="./veracruz/veracruz-logo-horizontal-white-black_background.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-white-black_background.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-white-black_background.png" width="75"></td>
+        <td><img src="./veracruz/veracruz-logo-horizontal-white-black_background.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-white-black_background.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-white-black_background.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./veracruz/veracruz-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-black.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-black.png" width="75"></td>
+        <td><img src="./veracruz/veracruz-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-black.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./veracruz/veracruz-logo-horizontal-white.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-white.png" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-white.png" width="75"></td>
+        <td><img src="./veracruz/veracruz-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-logo-stacked-white.svg" width="200"></td>
+        <td><img src="./veracruz/veracruz-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 ---
 
