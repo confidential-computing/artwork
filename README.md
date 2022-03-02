@@ -12,19 +12,21 @@
 	<tr>
 		<th colspan=5>
 	</tr>
+	<tr>
 		<th></th>
 		<th width="150">RGB</th>
 		<th width="150">CMYK</th>
 		<th width="150">Pantone</th>
 		<th width="150">Hex</th>
 	</tr>
+	<tr>
 		<td><img src="./ccc/other/EB0045.svg" width="20"></td>
 		<td>(235, 0, 69)</td>
 		<td>(0, 100, 0, 70)</td>
 		<td>192C</td>
 		<td>#00AF9A</td>
 	</tr>
-	</tr>
+	<tr>
 		<td><img src="./ccc/other/0075C9.svg" width="20"></td>
 		<td>(0, 117, 201)</td>
 		<td>(100, 46, 2, 0)</td>
@@ -149,12 +151,14 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
 	<tr>
 		<th colspan=5>
 	</tr>
+	<tr>
 		<th></th>
 		<th width="150">RGB</th>
 		<th width="150">CMYK</th>
 		<th width="150">Pantone</th>
 		<th width="150">Hex</th>
 	</tr>
+	<tr>
 		<td><img src="./gramine/other/DD2A7C.svg" width="20"></td>
 		<td>(221, 42, 124)</td>
 		<td>(0, 81, 44, 13)</td>
