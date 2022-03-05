@@ -229,6 +229,97 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
 
 The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+Sans?preview.text=GRAMINE&preview.text_type=custom).
 
+## Occlum
+
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+	<tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+	<tr>
+		<td><img src="./occlum/other/0074E5.svg" width="20"></td>
+		<td>(0, 116, 229)</td>
+		<td>(90, 44, 0, 10)</td>
+		<td>285 C</td>
+		<td>#0074E5</td>
+	</tr>
+</table>
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color (reverse)</th>
+        <td><img src="./occlum/occlum-logo-horizontal-color_reverse.png" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-color_reverse.png" width="200"></td>
+        <td><img src="./occlum/occlum-icon-color_reverse.png" width="75"></td>
+        <td><img src="./occlum/occlum-logo-horizontal-color_reverse.svg" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-color_reverse.svg" width="200"></td>
+        <td><img src="./occlum/occlum-icon-color_reverse.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./occlum/occlum-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-color.png" width="200"></td>
+        <td><img src="./occlum/occlum-icon-color.png" width="75"></td>
+        <td><img src="./occlum/occlum-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-color.svg" width="200"></td>
+        <td><img src="./occlum/occlum-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white (black background)</th>
+        <td><img src="./occlum/occlum-logo-horizontal-white-black_background.png" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-white-black_background.png" width="200"></td>
+        <td><img src="./occlum/occlum-icon-white-black_background.png" width="75"></td>
+        <td><img src="./occlum/occlum-logo-horizontal-white-black_background.svg" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-white-black_background.svg" width="200"></td>
+        <td><img src="./occlum/occlum-icon-white-black_background.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./occlum/occlum-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-black.png" width="200"></td>
+        <td><img src="./occlum/occlum-icon-black.png" width="75"></td>
+        <td><img src="./occlum/occlum-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-black.svg" width="200"></td>
+        <td><img src="./occlum/occlum-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./occlum/occlum-logo-horizontal-white.png" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-white.png" width="200"></td>
+        <td><img src="./occlum/occlum-icon-white.png" width="75"></td>
+        <td><img src="./occlum/occlum-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./occlum/occlum-logo-stacked-white.svg" width="200"></td>
+        <td><img src="./occlum/occlum-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 ## Veracruz
 
 ### Color Palette
