@@ -215,6 +215,15 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
         <td><img src="./gramine/gramine-icon-black.svg" width="75"></td>
     </tr>
     <tr>
+        <th>white (black background)</th>
+        <td><img src="./gramine/gramine-logo-horizontal-white-black_background.png" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-white-black_background.png" width="200"></td>
+        <td><img src="./gramine/gramine-icon-white-black_background.png" width="75"></td>
+        <td><img src="./gramine/gramine-logo-horizontal-white-black_background.svg" width="200"></td>
+        <td><img src="./gramine/gramine-logo-vertical-white-black_background.svg" width="200"></td>
+        <td><img src="./gramine/gramine-icon-white-black_background.svg" width="75"></td>
+    </tr>
+    <tr>
         <th>white</th>
         <td><img src="./gramine/gramine-logo-horizontal-white.png" width="200"></td>
         <td><img src="./gramine/gramine-logo-vertical-white.png" width="200"></td>
@@ -223,6 +232,7 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
         <td><img src="./gramine/gramine-logo-vertical-white.svg" width="200"></td>
         <td><img src="./gramine/gramine-icon-white.svg" width="75"></td>
     </tr>
+
 </table>
 
 ### Font
