@@ -4,7 +4,7 @@
 
 ## Confidential Computing Consortium
 
-* [Brand guidelines](https://github.com/confidential-computing/artwork/blob/main/cc_consortium_brand.pdf)
+* [Brand guidelines](https://github.com/confidential-computing/artwork/blob/main/CCC_NewBranding_BrandGuidelines.pdf)
 
 ### Color Palette
 
