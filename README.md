@@ -460,13 +460,13 @@ The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+San
         <td><img src="./dstack/dstack-icon-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="./dstack/dstack-logo-horizontal-white.png" width="200"></td>
-        <td><img src="./dstack/dstack-logo-vertical-white.png" width="200"></td>
-        <td><img src="./dstack/dstack-icon-white.png" width="75"></td>
-        <td><img src="./dstack/dstack-logo-horizontal-white.svg" width="200"></td>
-        <td><img src="./dstack/dstack-logo-vertical-white.svg" width="200"></td>
-        <td><img src="./dstack/dstack-icon-white.svg" width="75"></td>
+        <th>black</th>
+        <td><img src="./dstack/dstack-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.png" width="75"></td>
+        <td><img src="./dstack/dstack-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.svg" width="75"></td>
     </tr>
 </table>
 
