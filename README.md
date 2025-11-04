@@ -97,6 +97,48 @@
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
 
+## Dstack
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>vertical</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>vertical</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./dstack/dstack-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-color.png" width="200"></td>
+        <td><img src="./dstack/dstack-icon-color.png" width="75"></td>
+        <td><img src="./dstack/dstack-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-color.svg" width="200"></td>
+        <td><img src="./dstack/dstack-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./dstack/dstack-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.png" width="75"></td>
+        <td><img src="./dstack/dstack-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.svg" width="75"></td>
+    </tr>
+</table>
+
 ## Enarx
 
 ### Logos
@@ -427,7 +469,6 @@ The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+San
         <td><img src="./veracruz/veracruz-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 ---
 
