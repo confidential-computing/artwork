@@ -99,6 +99,28 @@ The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the O
 
 ## Dstack
 
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+	<tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+	<tr>
+		<td><img src="./dstack/other/CDFA50.svg" width="20"></td>
+		<td>(205, 250, 80)</td>
+		<td>(33, 4, 75, 0)</td>
+		<td>2297 C</td>
+		<td>#CDFA50</td>
+	</tr>
+</table>
+
 ### Logos
 
 <table>
@@ -138,6 +160,10 @@ The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the O
         <td><img src="./dstack/dstack-icon-black.svg" width="75"></td>
     </tr>
 </table>
+
+### Font
+
+The dstack font is [Montserrat](https://github.com/JulietaUla/Montserrat/tree/master), available under the SIL Open Font License, Version 1.1.
 
 ## Enarx
 
