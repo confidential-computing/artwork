@@ -29,9 +29,9 @@
         <td><img src="./ccc_committee_logos/SVG/CCC_Logo_Outreach_Committee.svg" width="200"></td>
     </tr>
     <tr>
-        <th>RegStan SIG</th>
-        <td><img src="./ccc_committee_logos/PNG/ccc_logo_regstan_sig_rev1.png" width="200"></td>
-        <td><img src="./ccc_committee_logos/SVG/ccc_logo_regstan_sig_rev1.svg" width="200"></td>
+        <th>Regulators and Standards SIG</th>
+        <td><img src="./ccc_committee_logos/PNG/CCC_Logo_Regulators_and_Standards_Special_Interest_Group.png" width="200"></td>
+        <td><img src="./ccc_committee_logos/SVG/CCC_Logo_Regulators_and_Standards_Special_Interest_Group.svg" width="200"></td>
     </tr>
     <tr>
         <th>Technical Advisory Council</th>
@@ -99,9 +99,9 @@
         <th>SVG</th>
     </tr>
     <tr>
-        <th>Armadillo Mascot</th>
-        <td><img src="./Mascot/CCC_Armadillo_Mascot.png" width="200"></td>
-        <td><img src="./Mascot/CCC_Armadillo_Mascot.svg" width="200"></td>
+        <th>Armadillo Mascot (Left)</th>
+        <td><img src="./Mascot/CCC_Armadillo_Mascot_Left.png" width="200"></td>
+        <td><img src="./Mascot/CCC_Armadillo_Mascot_Left.svg" width="200"></td>
     </tr>
     <tr>
         <th>Armadillo Mascot (Right)</th>
