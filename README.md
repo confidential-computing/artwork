@@ -57,39 +57,39 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_color.png" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-color.png" width="75"></td>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_icon-color.png" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_color.svg" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-color.svg" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color (inverted)</th>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color-inverted.png" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_color-reverse.png" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-color-inverted.png" width="75"></td>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-color-inverted.svg" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_icon-white.png" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_color-reverse.svg" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-color-inverted.svg" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.png" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_white.png" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-white.png" width="75"></td>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_icon-white.png" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_white.svg" width="200"></td>
         <td>&nbsp</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-white.svg" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_black.png" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-black.png" width="75"></td>
-        <td><img src="./ccc/confidential_computing_consortium-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./ccc/ccc_logos/PNG/CCC_NewBranding_icon-black.png" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_black.svg" width="200"></td>
         <td>&nbsp;</td>
-        <td><img src="./ccc/confidential_computing_consortium-icon-black.svg" width="75"></td>
+        <td><img src="./ccc/ccc_logos/SVG/CCC_NewBranding_icon-black.svg" width="75"></td>
     </tr>
 </table>
 
