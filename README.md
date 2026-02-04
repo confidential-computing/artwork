@@ -97,6 +97,74 @@
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
 
+## Dstack
+
+### Color Palette
+
+<table style="text-align:center">
+	<tr>
+		<th colspan=5>
+	</tr>
+	<tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">CMYK</th>
+		<th width="150">Pantone</th>
+		<th width="150">Hex</th>
+	</tr>
+	<tr>
+		<td><img src="./dstack/other/CDFA50.svg" width="20"></td>
+		<td>(205, 250, 80)</td>
+		<td>(33, 4, 75, 0)</td>
+		<td>2297 C</td>
+		<td>#CDFA50</td>
+	</tr>
+</table>
+
+### Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>vertical</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>vertical</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./dstack/dstack-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-color.png" width="200"></td>
+        <td><img src="./dstack/dstack-icon-color.png" width="75"></td>
+        <td><img src="./dstack/dstack-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-color.svg" width="200"></td>
+        <td><img src="./dstack/dstack-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./dstack/dstack-logo-horizontal-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.png" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.png" width="75"></td>
+        <td><img src="./dstack/dstack-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-logo-vertical-black.svg" width="200"></td>
+        <td><img src="./dstack/dstack-icon-black.svg" width="75"></td>
+    </tr>
+</table>
+
+### Font
+
+The dstack font is [Montserrat](https://github.com/JulietaUla/Montserrat/tree/master), available under the SIL Open Font License, Version 1.1.
+
 ## Enarx
 
 ### Logos
@@ -427,7 +495,6 @@ The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+San
         <td><img src="./veracruz/veracruz-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 ---
 
