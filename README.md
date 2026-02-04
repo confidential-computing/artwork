@@ -182,6 +182,8 @@
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
 
+## CCC Projects Logos
+
 ## Coconut SVSM
 
 ### Logos
