@@ -97,6 +97,49 @@
 
 The CCC font is [Abel Pro Bold](./ccc/other/abel-pro.zip), available under the Open Font License.
 
+## Coconut SVSM
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Icon 1</th>
+        <td><img src="./coconut_svsm/icon1.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>Icon 2</th>
+        <td><img src="./coconut_svsm/icon2.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>Icon 3</th>
+        <td><img src="./coconut_svsm/icon3.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>Logo 1</th>
+        <td><img src="./coconut_svsm/logo1.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo 2</th>
+        <td><img src="./coconut_svsm/logo2.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo 3</th>
+        <td><img src="./coconut_svsm/logo3.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo 4</th>
+        <td><img src="./coconut_svsm/logo4.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo 5</th>
+        <td><img src="./coconut_svsm/logo5.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Dstack
 
 ### Color Palette
@@ -307,6 +350,52 @@ The Enarx font is [Roboto Regular](https://fonts.google.com/specimen/Roboto?prev
 
 The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+Sans?preview.text=GRAMINE&preview.text_type=custom).
 
+## Islet
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Logo</th>
+        <td><img src="./islet/islet_logo.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo with Title</th>
+        <td><img src="./islet/islet_logo_with_title.svg" width="200"></td>
+    </tr>
+</table>
+
+## Manatee
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Color</th>
+        <td><img src="./manatee/Color/PNG/manatee_color.png" width="200"></td>
+        <td><img src="./manatee/Color/SVG/manatee_color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Black</th>
+        <td><img src="./manatee/Black/PNG/manatee_black.png" width="200"></td>
+        <td><img src="./manatee/Black/SVG/manatee_black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>White</th>
+        <td><img src="./manatee/White/PNG/manatee_white.png" width="200"></td>
+        <td><img src="./manatee/White/SVG/manatee_white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Occlum
 
 ### Color Palette
@@ -395,6 +484,21 @@ The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+San
         <td><img src="./occlum/occlum-logo-horizontal-white.svg" width="200"></td>
         <td><img src="./occlum/occlum-logo-stacked-white.svg" width="200"></td>
         <td><img src="./occlum/occlum-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+## Open Enclave SDK
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Icon - Color</th>
+        <td><img src="./open_enclave_sdk/open-enclave-sdk-icon-color.svg" width="75"></td>
     </tr>
 </table>
 
@@ -493,6 +597,43 @@ The Gramine font is [Open Sans Light](https://fonts.google.com/specimen/Open+San
         <td><img src="./veracruz/veracruz-logo-horizontal-white.svg" width="200"></td>
         <td><img src="./veracruz/veracruz-logo-stacked-white.svg" width="200"></td>
         <td><img src="./veracruz/veracruz-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+## Veraison
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Logo</th>
+        <td><img src="./veraison/veraison-logo.svg" width="200"></td>
+    </tr>
+</table>
+
+## Virtee
+
+### Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Logo - Color</th>
+        <td><img src="./virtee/virtee-logo.png" width="200"></td>
+        <td><img src="./virtee/virtee-logo-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Logo</th>
+        <td>&nbsp;</td>
+        <td><img src="./virtee/virtee.svg" width="200"></td>
     </tr>
 </table>
 
