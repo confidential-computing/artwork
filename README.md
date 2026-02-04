@@ -169,12 +169,12 @@
     <tr>
         <th>Horizontal</th>
         <td><img src="./ccc/Member Badge/CCC_MemberBadges_Final-Horizontal.png" width="200"></td>
-        <td>&nbsp;</td>
+        <td><img src="./ccc/Member Badge/CCC_MemberBadges_Final-Horizontal.svg" width="200"></td>
     </tr>
     <tr>
         <th>Vertical</th>
         <td><img src="./ccc/Member Badge/CCC_MemberBadges_Final-Vertical.png" width="200"></td>
-        <td>&nbsp;</td>
+        <td><img src="./ccc/Member Badge/CCC_MemberBadges_Final-Vertical.svg" width="200"></td>
     </tr>
 </table>
 
